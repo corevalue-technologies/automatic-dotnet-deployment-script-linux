@@ -1,4 +1,4 @@
-# automatic-dotnet-deployment-script-linux
+# Automatic-dotnet-deployment-script-linux
 This script allows you to deploy your azure controller automatically on linux with a single shell script.
 
 # Setup
