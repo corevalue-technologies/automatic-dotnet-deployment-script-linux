@@ -3,11 +3,13 @@ This script allows you to deploy your azure controller automatically on linux wi
 
 # Setup
 
+`sudo chmod +x controllerDeployment.sh`
+
+# Run Command
+
 `which bash > controllerDeployment.sh`
 
 `sudo nano controllerDeployment.sh`
-
-`sudo chmod +x controllerDeployment.sh`
 
 `yes | ./controllerDeployment.sh`
 
