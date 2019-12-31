@@ -10,3 +10,12 @@ This script allows you to deploy your azure controller automatically on linux wi
 `sudo chmod +x controllerDeployment.sh`
 
 `yes | ./controllerDeployment.sh`
+
+
+# Learn about .NET Core
+Learn about .NET Core
+.NET Core Roadmap
+Learn about the .NET platform
+.NET Core release notes
+.NET Core Announcements
+.NET Core blog
