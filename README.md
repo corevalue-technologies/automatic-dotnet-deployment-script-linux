@@ -13,9 +13,7 @@ This script allows you to deploy your azure controller automatically on linux wi
 
 
 # Learn about .NET Core
-Learn about .NET Core
-.NET Core Roadmap
-Learn about the .NET platform
-.NET Core release notes
-.NET Core Announcements
-.NET Core blog
+
+ https://docs.microsoft.com/en-us/dotnet/core/
+ 
+ https://docs.microsoft.com/en-us/dotnet/standard/
